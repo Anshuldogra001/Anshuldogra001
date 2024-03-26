@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Abhinav Dogra
-- 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Machine Learning, SQL, R
-- 📫 How to reach me Abhinav.dogra001@gmail.com
-Hy Guys check out my portfolio  :  https://abhinavdogra.my.canva.site/
+- ### Hi there 👋
+* 👂 My name is ABHINAV DOGRA
+* 🔭 I’m currently working on MACHINE LEARNING RESEARCH
+* 🌱 I’m currently learning MACHINE LEARNING, AZURE, R
+* 🤝 I’m looking to collaborate on LSTM, DEEP LEARNING EFFICIENCY WORK
+* 🤔 I’m looking for help with RAW NLP MODEL CREATION AND DEPLOYMENT
+* 💬 Ask me about DATA ANALYSIS, ML CODE OPTIMIZATION
+* 📫 How to reach me: www.linkedin.com/in/abhinav-dogra-575874224
+* ❤️ I love DEBUGGING CODE AND OPTIMIZATION
+* ⚡ portfolio  :  https://abhinavdogra.my.canva.site/
+
 <!---
 Anshuldogra001/Anshuldogra001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
