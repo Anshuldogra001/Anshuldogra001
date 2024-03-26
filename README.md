@@ -28,4 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+
 ![Snake animation](https://github.com/Anshuldogra001/Anshuldogra001/blob/output/github-contribution-grid-snake.svg)
