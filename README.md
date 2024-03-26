@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-![Abhinav GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuldogra001&theme=dark&show_icons=true?theme=ambient_gradient)
+![Abhinav GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuldogra001&theme=ambient_gradient&show_icons=true)
 
 
 ![Snake animation](https://github.com/Anshuldogra001/Anshuldogra001/blob/output/github-contribution-grid-snake.svg)
