@@ -7,7 +7,6 @@
 * 💬 Ask me about DATA ANALYSIS, ML CODE OPTIMIZATION
 * 📫 How to reach me: www.linkedin.com/in/abhinav-dogra-575874224
 * ❤️ I love DEBUGGING CODE AND OPTIMIZATION
-* ⚡ portfolio  :  https://abhinavdogra.my.canva.site/
 
 <!---
 Anshuldogra001/Anshuldogra001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
